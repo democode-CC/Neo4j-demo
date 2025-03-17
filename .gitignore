@@ -1,0 +1,7 @@
+# .gitignore
+Neo4j-Authentication.txt
+*.html
+*.png
+__pycache__/
+*.pyc
+.DS_Store
